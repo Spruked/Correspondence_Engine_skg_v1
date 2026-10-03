@@ -1,0 +1,47 @@
+C:\Users\bryan\Desktop\correspondence_engine_skg_v1
+|-- correspondence_engine
+|   |-- Epistemic_Gravity_Field
+|   |   |-- .gitignore
+|   |   |-- __init__.py
+|   |   |-- adapter.py
+|   |   |-- distribution_shift_test.py
+|   |   |-- LICENSE
+|   |   |-- perturb_test.py
+|   |   |-- README.md
+|   |   |-- space_field.py
+|   |   |-- stress_test.py
+|   |   `-- visualize.py
+|   `-- skg
+|       |-- __init__.py
+|       |-- atoms.py
+|       |-- aui_engine.py
+|       |-- beams.py
+|       |-- challenge.py
+|       |-- claims.py
+|       |-- correspondence_substrate.py
+|       |-- escalation.py
+|       |-- evidence.py
+|       |-- fifth_mind.py
+|       |-- gaps.py
+|       |-- geometry.py
+|       |-- README.md
+|       |-- sublimator.py
+|       |-- tribunal.py
+|       |-- vault.py
+|       `-- vectors.py
+|-- divergence_rkg
+|   |-- __init__.py
+|   |-- divergence_rkg.py
+|   `-- test_divergence_rkg.py
+|-- doctrine
+|   |-- __init__.py
+|   `-- evaluator.py
+|-- runtime
+|   `-- master_runtime.py
+|-- tests
+|   `-- test_four_stage_pipeline.py
+|-- dev_log.txt
+|-- Doctrine_v1.0_Provenance_Amendment_HLSF_Core4.md
+|-- structure_tree.txt
+|-- tree
+`-- tree.txt

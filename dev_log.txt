@@ -1,0 +1,9 @@
+2026-10-03 - Root-level Doctrine authority and four-stage validation
+
+- Confirmed `doctrine/` as a repository-root peer of `correspondence_engine/`, `divergence_rkg/`, `runtime/`, and `tests/`.
+- Established ownership rule: Doctrine governs EGF, RKG, SKG, runtime orchestration, and all consequential execution; the Correspondence Engine does not govern Doctrine.
+- Added `doctrine/evaluator.py` and `doctrine/__init__.py` for DDR calculation, provenance-hash checking, and the `approved` / `escalate` / `blocked` decision gate.
+- Added `tests/test_four_stage_pipeline.py` covering EGF observation, RKG risk scoring, SKG canonicalization, and Doctrine authorization for safe and dangerous action envelopes.
+- Validation passed: safe action returned `approved`; dangerous action returned `blocked`; no proposed action was executed; Python compilation and `git diff --check` passed.
+- Corrected pre-existing literal escape syntax defects in `correspondence_engine/skg/aui_engine.py` and `correspondence_engine/skg/escalation.py` so the SKG package could import.
+- The evaluator's declared canonical SHA-256 remains an anchor placeholder until it is bound to the verified hash of the ratified Doctrine source document.

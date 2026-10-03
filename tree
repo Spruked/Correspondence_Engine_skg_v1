@@ -1,0 +1,46 @@
+Folder PATH listing for volume SSD Win10
+Volume serial number is 2A00-D9FE
+C:.
+│   Doctrine_v1.0_Provenance_Amendment_HLSF_Core4.md
+│   
+├───correspondence_engine
+│   ├───Epistemic_Gravity_Field
+│   │       .gitignore
+│   │       distribution_shift_test.py
+│   │       LICENSE
+│   │       perturb_test.py
+│   │       README.md
+│   │       space_field.py
+│   │       stress_test.py
+│   │       visualize.py
+│   │       __init__.py
+│   │       
+│   └───skg
+│           atoms.py
+│           aui_engine.py
+│           beams.py
+│           challenge.py
+│           claims.py
+│           correspondence_substrate.py
+│           escalation.py
+│           evidence.py
+│           fifth_mind.py
+│           gaps.py
+│           geometry.py
+│           README.md
+│           sublimator.py
+│           tribunal.py
+│           vault.py
+│           vectors.py
+│           __init__.py
+│           
+└───divergence_rkg
+    │   divergence_rkg.py
+    │   test_divergence_rkg.py
+    │   __init__.py
+    │   
+    └───__pycache__
+            divergence_rkg.cpython-311.pyc
+            test_divergence_rkg.cpython-311-pytest-9.0.3.pyc
+            __init__.cpython-311.pyc
+            
