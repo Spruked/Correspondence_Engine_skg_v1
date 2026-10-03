@@ -1,5 +1,11 @@
 # Correspondence Engine SKG v1
 
+Copyright (c) 2026 Spruked. All rights reserved.
+
+This repository is proprietary and confidential. Use, copying, modification,
+distribution, deployment, and commercial exploitation require prior written
+permission. See [LICENSE](LICENSE) for the complete terms.
+
 ## Ownership model
 
 Doctrine is the root-level constitutional authority for this repository.

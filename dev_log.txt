@@ -7,3 +7,9 @@
 - Validation passed: safe action returned `approved`; dangerous action returned `blocked`; no proposed action was executed; Python compilation and `git diff --check` passed.
 - Corrected pre-existing literal escape syntax defects in `correspondence_engine/skg/aui_engine.py` and `correspondence_engine/skg/escalation.py` so the SKG package could import.
 - The evaluator's declared canonical SHA-256 remains an anchor placeholder until it is bound to the verified hash of the ratified Doctrine source document.
+
+2026-10-03 - Proprietary license and copyright declaration
+
+- Added root `LICENSE` establishing proprietary, confidential ownership for the repository and reserving copying, redistribution, modification, deployment, commercial use, and derivative-work rights.
+- Declared `Copyright (c) 2026 Spruked. All rights reserved.` in the license and root README.
+- Preserved any applicable third-party component licenses and notices.

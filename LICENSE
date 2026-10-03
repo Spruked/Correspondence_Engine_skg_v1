@@ -1,0 +1,30 @@
+PROPRIETARY LICENSE
+Correspondence Engine SKG v1
+
+Copyright (c) 2026 Spruked. All rights reserved.
+
+This repository and all source code, documentation, models, schemas, designs,
+artifacts, and other materials contained in it (the "Software") are proprietary
+and confidential intellectual property of Spruked unless a file states otherwise.
+
+No license is granted except the limited, revocable permission to inspect the
+Software for authorized evaluation of this repository. Without prior written
+permission from Spruked, no person or organization may:
+
+1. copy, publish, distribute, sublicense, sell, lease, or transfer the Software;
+2. modify, adapt, merge, translate, or create derivative works from the Software;
+3. use the Software for commercial, production, hosted, or service-bureau purposes;
+4. remove or alter copyright, confidentiality, attribution, or proprietary notices; or
+5. disclose the Software or any non-public part of it to a third party.
+
+Any authorized copy must reproduce this notice in full. Third-party components
+remain subject to their own licenses and notices; this license does not replace
+those terms.
+
+The Software is provided for authorized evaluation and development only, without
+warranty of any kind, express or implied, to the maximum extent permitted by law.
+Spruked is not liable for claims or damages arising from unauthorized use,
+distribution, modification, deployment, or operation of the Software.
+
+All rights not expressly granted are reserved by Spruked. Permission requests
+must be made in writing to the authorized owner or maintainer of the repository.
